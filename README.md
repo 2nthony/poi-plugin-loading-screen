@@ -1,4 +1,4 @@
-# poi-plugin-loading-screen
+![](https://user-images.githubusercontent.com/19513289/57156519-c418c300-6e10-11e9-9027-ef64061f9f60.png)
 
 > ⚙️ Loading screen for poi plugin
 
