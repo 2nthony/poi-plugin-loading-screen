@@ -7,6 +7,29 @@
 [![License](https://badgen.net/npm/license/poi-plugin-loading-screen)](./LICENSE)
 [![donate](https://badgen.net/badge/support%20me/donate/f2a)](https://patreon.com/evillt)
 
+![](https://user-images.githubusercontent.com/19513289/57154226-ef001880-6e0a-11e9-886a-d5290270737d.gif)
+
+## Install
+
+```console
+yarn add poi-plugin-loading-screen -D
+```
+
+## Usage
+
+In your `poi.config.js`:
+
+```js
+module.exports = {
+  plugins: ['loading-screen']
+}
+```
+
+## Credits
+
+- [**nuxt/loading-screen**](https://github.com/nuxt/loading-screen)
+- [evillt/loading-screen](https://github.com/evillt/loading-screen)
+
 ## Contributing
 
 1. Fork it!
