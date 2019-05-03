@@ -8,16 +8,17 @@ exports.when = api => api.args.has('s') || api.args.has('serve')
 
 exports.apply = api => {
   /**
-   * Disable poi open browser behavior
+   * Prepare arguments for open browser
    */
-  const {
-    args,
-    config: { devServer }
-  } = api
-  const { host, port } = devServer
+  const { args, config } = api
+  const { host, port } = config.devServer
   const isUnspecifiedHost = host === '0.0.0.0' || host === '::'
   const prettyHost = isUnspecifiedHost ? 'localhost' : host
-  delete devServer.open
+
+  /**
+   * Make poi lose ability to open browser
+   */
+  delete config.devServer.open
 
   console.log()
   console.log('You can now view your app in the browser:')
