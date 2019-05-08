@@ -1,6 +1,5 @@
 const LoadingScreenPlugin = require('loading-screen')
 const colors = require('@poi/dev-utils/colors')
-const ip = require('address').ip()
 
 exports.name = 'loading-screen'
 
@@ -23,7 +22,6 @@ exports.apply = api => {
   console.log()
   console.log('You can now view your app in the browser:')
   console.log(`Local:             http://${prettyHost}:${colors.bold(port)}`)
-  console.log(`On Your Network:   http://${ip}:${colors.bold(port)}`)
   console.log()
 
   /**
