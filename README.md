@@ -2,9 +2,9 @@
 
 > 🚥Loading screen for poi plugin inspired by Nuxt.js's loading screen powered by [evillt/loading-screen](https://github.com/evillt/loading-screen)
 
-[![NPM version](https://badgen.net/npm/v/poi-plugin-loading-screen)](https://npmjs.com/package/poi-plugin-loading-screen)
-[![NPM download](https://badgen.net/npm/dm/poi-plugin-loading-screen)](https://npmjs.com/package/poi-plugin-loading-screen)
-[![License](https://badgen.net/npm/license/poi-plugin-loading-screen)](./LICENSE)
+[![NPM version](https://badgen.net/npm/v/poi-plugin-loading-screen?icon=npm)](https://npmjs.com/package/poi-plugin-loading-screen)
+[![NPM download](https://badgen.net/npm/dm/poi-plugin-loading-screen?icon=npm)](https://npmjs.com/package/poi-plugin-loading-screen)
+[![CircleCI](https://badgen.net/circleci/github/evillt/poi-plugin-loading-screen?icon=circleci)](https://circleci.com/gh/evillt/poi-plugin-loading-screen/tree/master)
 [![donate](https://badgen.net/badge/support%20me/donate/f2a)](https://patreon.com/evillt)
 
 ![](https://user-images.githubusercontent.com/19513289/57154226-ef001880-6e0a-11e9-886a-d5290270737d.gif)
