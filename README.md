@@ -1,6 +1,12 @@
+[evillt/loading-screen]: https://github.com/evillt/loading-screen
+
+> ⚡️This repo is merged into [evillt/loading-screen]
+
+---
+
 ![](https://user-images.githubusercontent.com/19513289/57156519-c418c300-6e10-11e9-9027-ef64061f9f60.png)
 
-> 🚥Loading screen for poi plugin inspired by Nuxt.js's loading screen powered by [evillt/loading-screen](https://github.com/evillt/loading-screen)
+> 🚥Loading screen for poi plugin inspired by Nuxt.js's loading screen powered by [evillt/loading-screen]
 
 [![NPM version](https://badgen.net/npm/v/poi-plugin-loading-screen?icon=npm)](https://npmjs.com/package/poi-plugin-loading-screen)
 [![NPM download](https://badgen.net/npm/dm/poi-plugin-loading-screen?icon=npm)](https://npmjs.com/package/poi-plugin-loading-screen)
@@ -28,7 +34,7 @@ module.exports = {
 ## Credits
 
 - [**nuxt/loading-screen**](https://github.com/nuxt/loading-screen)
-- [evillt/loading-screen](https://github.com/evillt/loading-screen)
+- [evillt/loading-screen]
 - [poi](https://poi.js.org)
 
 ## Contributing
